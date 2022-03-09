@@ -1,0 +1,313 @@
+2022-03-08T10:09:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:09:42+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:10:04+00:00 CRITICAL Uncaught Error: Call to a member function get_variation_attributes() on array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_ в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:10:34+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:14:59+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:18:08+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T10:29:16+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php:8
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:09:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::is_type(), 0 passed in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php on line 8 and exactly 1 expected in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php:1490
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php(8): WC_Product->is_type()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_templa в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php на строке 1490
+
+2022-03-08T11:10:29+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:10:32+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:10:47+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:10:50+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:11:04+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php на строке 8
+
+2022-03-08T11:15:58+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_default_attribute() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3065
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php(73): wc_dropdown_variation_attribute_options(Array)
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocom в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php на строке 3065
+
+2022-03-08T14:10:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3090
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php(67): wc_dropdown_variation_attribute_options(Array)
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/woocommerce/cart/cart.php(37): get_template_part('templates/loop/...', '', Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-core-functions.php(34 в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php на строке 3090
+
+2022-03-08T15:39:32+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/search.php на строке 37
+
+2022-03-08T15:39:34+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/search.php на строке 37
+
+2022-03-08T15:39:35+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/search.php на строке 37
+
+2022-03-08T15:58:18+00:00 CRITICAL Uncaught Error: Call to undefined function has_content() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php:2
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(308): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/parts/headers/header-1.php(39): get_search_form()
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/cart.php(4): get_template_part('templates/parts...', '')
+#6 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.ph в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php на строке 2
+
+2022-03-08T16:01:11+00:00 CRITICAL Uncaught Error: Call to undefined function has_content() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php:2
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(308): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/parts/headers/header-1.php(39): get_search_form()
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/cart.php(4): get_template_part('templates/parts...', '')
+#6 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.ph в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php на строке 2
+
+2022-03-08T18:47:08+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:84
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 84
+
+2022-03-08T18:49:55+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:85
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 85
+
+2022-03-08T18:51:33+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:85
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 85
+
+2022-03-08T18:51:51+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:85
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 85
+
+2022-03-08T18:52:06+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:85
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 85
+
+2022-03-08T18:52:17+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:85
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 85
+
+2022-03-08T18:53:03+00:00 CRITICAL Uncaught Error: Call to a member function set_session() on array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:86
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 86
+
+2022-03-08T18:53:27+00:00 CRITICAL Uncaught Error: Call to a member function set_session() on array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:87
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 87
+
+2022-03-08T19:01:41+00:00 CRITICAL Uncaught Error: Call to a member function set_session() on array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:92
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:22:43+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variation as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:92
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:24:19+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variation as array in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:92
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:29:46+00:00 CRITICAL Uncaught ReflectionException: Property attributes does not exist in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:106
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php(106): ReflectionClass->getProperty('attributes')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php(92): setProtectedProperty(Object(WC_Product_Variation), 'attributes', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#6 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 106
+
+2022-03-08T19:36:26+00:00 CRITICAL syntax error, unexpected '$woocommerce' (T_VARIABLE) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 96
+
+2022-03-08T19:36:26+00:00 CRITICAL syntax error, unexpected '$woocommerce' (T_VARIABLE) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 96
+
+2022-03-08T19:36:28+00:00 CRITICAL syntax error, unexpected '$woocommerce' (T_VARIABLE) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 96
+
+2022-03-08T19:36:28+00:00 CRITICAL syntax error, unexpected '$woocommerce' (T_VARIABLE) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 96
+
+2022-03-08T19:43:20+00:00 CRITICAL syntax error, unexpected '}' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 90
+
+2022-03-08T19:48:55+00:00 CRITICAL syntax error, unexpected ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:48:55+00:00 CRITICAL syntax error, unexpected ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:48:56+00:00 CRITICAL syntax error, unexpected ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:48:56+00:00 CRITICAL syntax error, unexpected ')' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 92
+
+2022-03-08T19:58:19+00:00 CRITICAL Uncaught Error: Call to undefined function has_content() in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php:2
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(308): require()
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/parts/headers/header-1.php(39): get_search_form()
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www-ro...', false, Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/single/cart.php(4): get_template_part('templates/parts...', '')
+#6 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.ph в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/searchform.php на строке 2
+
+2022-03-08T20:19:06+00:00 CRITICAL syntax error, unexpected ',' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:08+00:00 CRITICAL syntax error, unexpected ',' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:08+00:00 CRITICAL syntax error, unexpected ',' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:09+00:00 CRITICAL syntax error, unexpected ',' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:09+00:00 CRITICAL syntax error, unexpected ',' в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:73
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): remove_start_option('<select id="pa_...', Array)
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(189): WP_Hook->apply_filters('<select id="pa_...', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3114): apply_filters('woocommerce_dro...', '<select id="pa_...', Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php(57): wc_dropdown_variation_attribute_options(Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:19:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:73
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): remove_start_option('<select id="pa_...', Array)
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(189): WP_Hook->apply_filters('<select id="pa_...', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3114): apply_filters('woocommerce_dro...', '<select id="pa_...', Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/templates/loop/product-cart.php(57): wc_dropdown_variation_attribute_options(Array)
+#4 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(772): require('/var/www/www-ro...')
+#5 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/template.php(716): load_template('/var/www/www в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 73
+
+2022-03-08T20:24:02+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/pomo/translations.php на строке 100
+
+2022-03-08T20:24:11+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php на строке 0
+
+2022-03-08T20:35:12+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on string in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:99
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 99
+
+2022-03-08T20:35:15+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on string in /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php:99
+Stack trace:
+#0 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(307): update_cart_item('')
+#1 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /var/www/www-root/data/www/woocommerce.mediaz.info/wp-admin/admin-ajax.php(187): do_action('wp_ajax_update_...')
+#4 {main}
+  thrown в /var/www/www-root/data/www/woocommerce.mediaz.info/wp-content/themes/common/functions.php на строке 99
+

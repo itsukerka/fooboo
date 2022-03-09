@@ -1,0 +1,216 @@
+@media(min-width: 812px){
+    .lm-show {
+        display: none !important;
+    }
+}
+
+
+@media(max-width: 812px){
+
+html, body {
+}
+
+
+.woocommerce-cart header {
+    display: none;
+}
+
+.woocommerce-cart #page {padding-top: 0;}
+
+.ui-subheader--1 .wrapper > .col-right, .ui-subheader--1 .wrapper > .col-left {
+    width: auto;
+}
+
+.ui-subheader--1 .wrapper > .col-middle {
+    width: auto;
+}
+
+.ui-header--1 .wrapper .col-middle {
+    display: none;
+}
+
+.ui-header--1 .wrapper .col-right {
+    margin-left: auto;
+}
+
+.lm-pt-0{
+     padding-top:0px;
+}
+.lm-pt-15{
+     padding-top:15px;
+}
+
+.lm-pb-15{
+    padding-bottom: 15px;
+}
+
+.lm-pt-20{
+    padding-top:20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h2, h3, h4 {
+    margin-bottom: 1.2rem;
+}
+
+    .ui-product {
+    width: auto;
+}
+
+.ui-product .wrapper .product-thumbnail {
+    width: 92px;
+    height: 124px;
+}
+
+.woocommerce--cart-wrapper {
+    flex-direction: column;
+}
+
+.woocommerce--cart-wrapper > .col-right {
+    margin: 0;
+    max-width: initial;
+}
+
+footer {
+    display: none;
+}
+
+.ui-product .product-name {
+    font-size: 18px;
+}
+
+.icon--times {
+    width: 13px;
+    height: 13px;
+}
+
+.ui-product .wrapper .col-right .product-remove a {
+    align-items: center;
+}
+
+.ui-product .col-middle {
+    margin: 0px 20px;
+}
+    .container {padding: 0 15px;width: calc(100% - 30px);}
+    
+    .lm-hide {
+        display: none !important;
+    }
+    
+    .woocommerce table.shop_table_responsive tr:nth-child(2n) td, .woocommerce-page table.shop_table_responsive tr:nth-child(2n) td {
+        background-color: transparent;
+    }
+    
+    a.woocommerce-remove-coupon {
+        margin: 0;
+    }
+    
+    span.select2-container.select2-container--default.select2-container--open {
+        left: 0 !important;
+        right: 0;
+        width: max-content;
+        margin: auto;
+    }
+    .ui-mobile-header{
+        display: flex;
+    }
+    
+    .woocommerce--cart-wrapper > .col-left {
+        max-height: 55vh;
+        overflow: auto;
+        border-bottom: 1px solid #DADADA;
+    }
+
+    .woocommerce table.shop_table_responsive tr td::before, .woocommerce-page table.shop_table_responsive tr td::before {
+    font-size: 15px;
+    line-height: 19px;
+    color: #7A7B8D;
+    font-weight: 500;
+}
+
+.order-total td::before{
+    color: black !important;
+}
+
+.woocommerce table.shop_table tbody th, .woocommerce table.shop_table tbody td, .woocommerce table.shop_table tbody tr {
+    padding: 4px 0;
+}
+
+    .ui-button.ui-button--2 {
+    box-shadow: 0px 4px 14px rgb(108 108 108 / 16%);
+}
+
+.ui-product .product-params .item {
+    margin: 1px 10px;
+}
+    
+    .ui-input.coupon input {
+        width: 90%;
+        min-height: 19px;
+    }
+
+    .woocommerce .woocommerce-ordering select {
+    width: 100%;
+    border-color: #dcdcdc;
+}
+
+.woocommerce .woocommerce-ordering {
+    width: 100%;
+}
+
+
+
+.woocommerce ul.products li.product .woocommerce-loop-product__title {
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    margin-bottom: 15px;
+}
+    
+    
+    .woocommerce-account nav.woocommerce-MyAccount-navigation {
+        width: auto;
+        border: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #efefef;
+    }
+    
+    .woocommerce-account .woocommerce-MyAccount-content {
+        width: auto;
+    }
+    
+    .woocommerce-account nav.woocommerce-MyAccount-navigation ul {
+        display: flex;
+        white-space: nowrap;
+        overflow: auto;
+    }
+    
+    .woocommerce-account nav.woocommerce-MyAccount-navigation li {
+        margin-right: 15px;
+        padding: 15px 0;
+    }
+    
+    .woocommerce ul.products {
+        display: flex;
+        flex-wrap: wrap;
+        margin: -10px;
+    }
+    
+    .woocommerce ul.products > li {
+        margin: 10px !important;
+        width: calc(50% - 20px) !important;
+    }
+    
+}
+
+@media(max-width: 400px){
+    
+}
